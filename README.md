@@ -20,6 +20,10 @@ _A curated list of frameworks, tools, and resources for building and deploying A
 
 ---
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/NipunaRanasinghe/awesome-ai-agents">upstream project</a>’s directory of agent frameworks, specialised tools, memory, evaluation and deployment resources. Linking implementation options with operational tooling helps developers compare complete workflows and reuse existing components. The practical benefit is a more organised route from exploration to experimentation, with no new performance result implied by maintaining this copy.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 - [🌟 Core Frameworks](#-core-frameworks)
